@@ -5,7 +5,7 @@ export function Home() {
     <div>
         <Todos status="Todo" />
         <Todos status="InProgress" />
-        <Todos status="Nada" />
+        <Todos status="Done" />
     </div>
   )
 };
