@@ -17,9 +17,6 @@ export function App() {
       <Route exact path={"/"}>
         <Home />
       </Route>
-      {/* <Route path={"/"}>
-        <Todos />
-      </Route>        */}
       <Route path={"/add"}>
         <AddTodo />
       </Route>
